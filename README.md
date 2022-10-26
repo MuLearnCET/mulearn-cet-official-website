@@ -1,2 +1,1 @@
-# mulearn-cet-official-website
-Official website of MuLearn CET campus community
+# MuLearn CET Official Website
